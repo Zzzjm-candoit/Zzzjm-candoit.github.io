@@ -1,0 +1,6 @@
+.banner-img {
+    width: 992px;
+    height: 460px;
+    object-fit: cover;
+    float: right;
+}
